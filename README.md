@@ -1,5 +1,5 @@
 # PROJECTS
-Work related documents and experiments
+Software projects developed during my stay at Next Education India Pvt Ltd. 
 
 ## CODE TO DOWNLOAD ALL EMAILS FROM GMAIL
 
